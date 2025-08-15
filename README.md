@@ -1,14 +1,14 @@
 # ELEVATELABS_TASK4  
 ***Configure and test firewall rules in windows and Linux.*** <br></br>
 
-
-
 </br>Objective: Configure and test basic firewall rules to allow or block traffic.
 </br>Tools: Windows Firewall / UFW (Uncomplicated Firewall) on Linux.
 </br>Deliverables: Screenshot/configuration file showing firewall rules applied.
-<br></br>
 
+---
 Here's a step-by-step guide to configure and test firewall rules on both Windows and Linux (UFW), depending on your system. Choose the section that matches your OS. <br></br>
+
+---
 
 ***FOR LINUX (UFW - Uncomplicated Firewall)*** <br>
 
@@ -58,9 +58,7 @@ Here's a step-by-step guide to configure and test firewall rules on both Windows
 </br>7. sudo ufw allow 22
 </br>7. sudo ufw delete deny 23 <br></br>
 
-
-
-
+---
 ***FOR WINDOWS (Windows Defender Firewall)*** <br>
 
 ***1. Open Firewall Configuration Tool***  <br>
@@ -115,12 +113,10 @@ Here's a step-by-step guide to configure and test firewall rules on both Windows
 </br>•	Port numbers
 </br>•	Application names
 </br>•	Network profiles
-</br>It ensures that only authorized traffic can reach or leave your device, improving security.   <br></br> <br></br>
+</br>It ensures that only authorized traffic can reach or leave your device, improving security.   
 
+---
 
 ***THANK YOU*** <br></br> <br></br>
 
 ***END*** 
-
-Outcome: Basic firewall management skills and understanding of network traffic filtering.
-
